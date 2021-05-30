@@ -1,0 +1,7 @@
+{
+  "name": "diploma2021app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
